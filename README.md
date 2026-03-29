@@ -13,7 +13,7 @@ Two models were built:
 The final model was selected based on validation performance.
 
 ## Files
-- CNN_22101456.ipynb → Full notebook
+- CNN_CVPR_23_50308_1.ipynb → Full notebook
 - best_sign_language_cnn.pth → Trained model weights
 
 ## Techniques
